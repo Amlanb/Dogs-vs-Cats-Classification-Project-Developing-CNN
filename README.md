@@ -1,1 +1,1 @@
-# Dogs-vs-Cats-Classification-Project-Developing-CNN
+# Dogs-vs-Cats-Classification
